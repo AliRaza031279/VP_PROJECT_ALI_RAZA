@@ -1,0 +1,48 @@
+D:\5th semester\Visual Programming\Project\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+D:\5th semester\Visual Programming\Project\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+D:\5th semester\Visual Programming\Project\StudentManagementSystem\obj\Debug\SchoolManagementSystem.csprojAssemblyReference.cache
+D:\5th semester\Visual Programming\Project\StudentManagementSystem\obj\Debug\SchoolManagementSystem.frmLogin.resources
+D:\5th semester\Visual Programming\Project\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+D:\5th semester\Visual Programming\Project\StudentManagementSystem\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.cache
+D:\5th semester\Visual Programming\Project\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+D:\5th semester\Visual Programming\Project\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+D:\5th semester\Visual Programming\Project\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+D:\5th semester\Visual Programming\Project\StudentManagementSystem\obj\Debug\SchoolManagementSystem.frmDashboard.resources
+D:\5th semester\Visual Programming\Project\StudentManagementSystem\obj\Debug\SchoolManagementSystem.frmClass.resources
+D:\5th semester\Visual Programming\Project\StudentManagementSystem\obj\Debug\SchoolManagementSystem.frmCourse.resources
+D:\5th semester\Visual Programming\Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.frmClass.resources
+D:\5th semester\Visual Programming\Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.frmCourse.resources
+D:\5th semester\Visual Programming\Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.frmDashboard.resources
+D:\5th semester\Visual Programming\Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.frmLogin.resources
+D:\5th semester\Visual Programming\Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.cache
+D:\5th semester\Visual Programming\Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.frmStudent.resources
+D:\5th semester\Visual Programming\Project\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+D:\5th semester\Visual Programming\Project\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+D:\5th semester\Visual Programming\Project\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+D:\5th semester\Visual Programming\Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+D:\5th semester\Visual Programming\Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+D:\5th semester\Visual Programming\Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+D:\5th semester\Visual Programming\Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.frmFee.resources
+D:\5th semester\Visual Programming\Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.frmUser.resources
+D:\5th semester\Visual Programming\Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.frmTeacher.resources
+D:\5th semester\Visual Programming\Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.frmLoadingApp.resources
+D:\5th semester\Visual Programming\Project\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.manifest
+D:\5th semester\Visual Programming\Project\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.application
+D:\5th semester\Visual Programming\Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csprojAssemblyReference.cache
+D:\5th semester\Visual Programming\Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe.manifest
+D:\5th semester\Visual Programming\Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.application
+C:\Users\Ali Raza\Desktop\SchoolManagementSystemAllFiles\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Ali Raza\Desktop\SchoolManagementSystemAllFiles\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.frmClass.resources
+C:\Users\Ali Raza\Desktop\SchoolManagementSystemAllFiles\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.frmCourse.resources
+C:\Users\Ali Raza\Desktop\SchoolManagementSystemAllFiles\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.frmDashboard.resources
+C:\Users\Ali Raza\Desktop\SchoolManagementSystemAllFiles\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.frmFee.resources
+C:\Users\Ali Raza\Desktop\SchoolManagementSystemAllFiles\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.frmLoadingApp.resources
+C:\Users\Ali Raza\Desktop\SchoolManagementSystemAllFiles\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.frmLogin.resources
+C:\Users\Ali Raza\Desktop\SchoolManagementSystemAllFiles\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+C:\Users\Ali Raza\Desktop\SchoolManagementSystemAllFiles\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.frmStudent.resources
+C:\Users\Ali Raza\Desktop\SchoolManagementSystemAllFiles\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.frmTeacher.resources
+C:\Users\Ali Raza\Desktop\SchoolManagementSystemAllFiles\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.frmUser.resources
+C:\Users\Ali Raza\Desktop\SchoolManagementSystemAllFiles\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.cache
+C:\Users\Ali Raza\Desktop\SchoolManagementSystemAllFiles\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ali Raza\Desktop\SchoolManagementSystemAllFiles\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+C:\Users\Ali Raza\Desktop\SchoolManagementSystemAllFiles\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb

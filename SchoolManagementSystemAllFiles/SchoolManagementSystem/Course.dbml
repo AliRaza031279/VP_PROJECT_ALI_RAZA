@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DbSchoolManagementSystem" Class="CourseDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=DbSchoolManagementSystem;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False" SettingsObjectName="SchoolManagementSystem.Properties.Settings" SettingsPropertyName="DbSchoolManagementSystemConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.CourseTable" Member="CourseTables">
+    <Type Name="CourseTable">
+      <Column Name="CourseID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="CourseName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CourseStart" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CourseEnd" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CourseTiming" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CourseFee" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ClassID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ClassName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
